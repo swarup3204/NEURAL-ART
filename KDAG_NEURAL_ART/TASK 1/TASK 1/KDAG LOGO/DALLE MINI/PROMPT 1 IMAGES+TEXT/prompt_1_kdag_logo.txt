@@ -1,0 +1,1 @@
+ KDAG is aimed at bring machine learning enthusiasts together under the umbrella of a society in time series.
